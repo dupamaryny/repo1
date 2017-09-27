@@ -9,3 +9,5 @@ dopisek 3
 dopisek 5
 
 dopisek 6
+
+dopisek 7 (po utworzeniu nowego brancha)
