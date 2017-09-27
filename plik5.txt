@@ -3,3 +3,7 @@ dupa maryny
 dopisek 7 po utworzeniu nowego brancha
 
 dopisek 8 po zastegowaniu dopiska 7 ale nie skomitowaniu go
+
+dopisek 9 idzie tylko do branch2
+
+i mergujemy
