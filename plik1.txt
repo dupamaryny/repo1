@@ -1,5 +1,7 @@
 plik tekstowy
 
-dopisek 1
+dopisek 4
 
 dopisek 2
+
+dopisek 3
